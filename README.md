@@ -3,8 +3,8 @@ Create and modify file with VFS hooking when searching for a file or resource wi
 
 ## Author
 
-Biondi Antonio M63001300
+Biondi Antonio
 
-Esposito Stefano M63001342
+Esposito Stefano
 
-Guariniello Pasquale M63001341
+Guariniello Pasquale
